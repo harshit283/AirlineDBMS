@@ -5,7 +5,7 @@
 
 var mongodb = require('mongodb');
 const mongoClient = mongodb.MongoClient;
-const url = "mongodb://airline:airline@ds153689.mlab.com:53689/airlinedbms";
+const url = "mongodb://localhost:27017/newproject";
 
 // Write your functions here and remember to export them.
 
